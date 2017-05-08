@@ -1,0 +1,234 @@
+<view class="banner">
+    <view>
+        <image src="../../images/1.jpg"></image>  <!--个人头像-->
+    </view>
+</view>
+<view class="center_box">
+    <view class="chart"></view>       <!--折线图部分TODO-->
+    
+    <view class="friend_lists">                <!--个人说说模块-->
+        <image class="tx_img" src="../../images/mood_02.png"></image>
+
+        <view class="friend_right">
+            <view class="moods">不开心</view>
+            <text class="shuoshuo">下雨天，不想出门......</text>                  <!--发表心情说说-->
+            <view class="friend_img">                                            <!--发表图片-->
+                <image src="../../images/mood_02.png"></image>
+                <image src="../../images/mood_02.png"></image>
+            </view>
+            <view class="img_bottom"> <!--时间地点-->
+                <view class="loc">浙江省杭州市滨江区</view>
+                <text class="oldtime"><text>05月09日</text><text>16：15</text><text class="del">删除</text></text>
+                <view class="zan">
+                    <view class="zan_left">
+                        <view>7</view>    <!--点赞及评论个数-->
+                    <image src="../../images/list_dianz_pre.png" style="height:20px;width:20px;"></image>
+                    </view>
+                    
+                    <view class="zan_right">
+                        <view>7</view>
+                        <image src="../../images/comments.png" style="width:15px;height:15px;"></image>
+                    </view>
+                </view>
+            </view>
+            
+    </view>
+        <view class="commont_box">
+            <view class="arrow"></view>
+            <view class="box_top">
+               <image class="box_leftimg" src="../../images/list_dianz_pre.png" style="height:20px;width:20px;"></image>
+               <view class="box_rightimg">
+                    <image src="../../images/1.jpg"></image>     <!--点赞部分-->
+                    <image src="../../images/2.jpg"></image>
+                    <image src="../../images/3.jpg"></image>
+                    <image src="../../images/4.jpg"></image>
+                    <image src="../../images/5.jpg"></image>
+                    <image src="../../images/6.jpg"></image>
+                    <image src="../../images/7.jpg"></image>
+                    <image src="../../images/8.jpg"></image>
+                    <image src="../../images/6.jpg"></image>
+                    <image src="../../images/7.jpg"></image>
+                    <image src="../../images/8.jpg"></image>
+               </view> 
+            </view>
+           
+            <view class="box_bottom">
+                
+               <image class="box_leftimg" src="../../images/comments.png" style="width:15px;height:15px;"></image> 
+               <view class="commont">
+                   <image src="../../images/8.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">小明</view>
+                        <text>风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒.........</text>
+                    </view>
+               </view>
+                <view class="commont">
+                   <image src="../../images/9.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">丫丫</view>
+                        <text>回复 <text class="commonts_name">小明：</text>壮士一去兮不复还壮士一去兮不复还壮士一去兮不复还......</text>
+                    </view>
+               </view>
+               <view class="commont">
+                   <image src="../../images/15.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">欧阳</view>
+                        <text>回复 <text class="commonts_name">小明：</text>将来的你一定会感激现在奋斗的你......</text>
+                    </view>
+               </view>
+            </view>
+            
+        </view>
+    </view>
+     <!--end-->
+    <view class="friend_lists">                                             <!--个人说说模块-->
+        <image class="tx_img" src="../../images/mood_02.png"></image>
+
+        <view class="friend_right">
+            <view class="moods">不开心</view>
+            <text class="shuoshuo">下雨天，不想出门......</text>                  <!--发表心情说说-->
+            <view class="friend_img">                                            <!--发表图片-->
+                <image src="../../images/mood_02.png"></image>
+                <image src="../../images/mood_02.png"></image>
+            </view>
+            <view class="img_bottom"> <!--时间地点-->
+                <view class="loc">浙江省杭州市滨江区</view>
+                <text class="oldtime"><text>05月09日</text><text>16：15</text><text class="del">删除</text></text>
+                <view class="zan">
+                    <view class="zan_left">
+                        <view>7</view>    <!--点赞及评论个数-->
+                    <image src="../../images/list_dianz_pre.png" style="height:20px;width:20px;"></image>
+                    </view>
+                    
+                    <view class="zan_right">
+                        <view>7</view>
+                        <image src="../../images/comments.png" style="width:15px;height:15px;"></image>
+                    </view>
+                </view>
+            </view>
+            
+    </view>
+        <view class="commont_box">
+            <view class="arrow"></view>
+            <view class="box_top">
+               <image class="box_leftimg" src="../../images/list_dianz_pre.png" style="height:20px;width:20px;"></image>
+               <view class="box_rightimg">
+                    <image src="../../images/1.jpg"></image>     <!--点赞部分-->
+                    <image src="../../images/2.jpg"></image>
+                    <image src="../../images/3.jpg"></image>
+                    <image src="../../images/4.jpg"></image>
+                    <image src="../../images/5.jpg"></image>
+                    <image src="../../images/6.jpg"></image>
+                    <image src="../../images/7.jpg"></image>
+                    <image src="../../images/8.jpg"></image>
+                    <image src="../../images/6.jpg"></image>
+                    <image src="../../images/7.jpg"></image>
+                    <image src="../../images/8.jpg"></image>
+               </view> 
+            </view>
+           
+            <view class="box_bottom">
+                
+               <image class="box_leftimg" src="../../images/comments.png" style="width:15px;height:15px;"></image> 
+               <view class="commont">
+                   <image src="../../images/8.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">小明</view>
+                        <text>风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒.........</text>
+                    </view>
+               </view>
+                <view class="commont">
+                   <image src="../../images/9.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">丫丫</view>
+                        <text>回复 <text class="commonts_name">小明：</text>壮士一去兮不复还壮士一去兮不复还壮士一去兮不复还......</text>
+                    </view>
+               </view>
+               <view class="commont">
+                   <image src="../../images/15.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">欧阳</view>
+                        <text>回复 <text class="commonts_name">小明：</text>将来的你一定会感激现在奋斗的你......</text>
+                    </view>
+               </view>
+            </view>
+        </view>
+    </view>
+    <!--end-->
+    <view class="friend_lists">                <!--个人说说模块-->
+        <image class="tx_img" src="../../images/mood_02.png"></image>
+
+        <view class="friend_right">
+            <view class="moods">不开心</view>
+            <text class="shuoshuo">下雨天，不想出门......</text>                  <!--发表心情说说-->
+            <view class="friend_img">                                            <!--发表图片-->
+                <image src="../../images/mood_02.png"></image>
+                <image src="../../images/mood_02.png"></image>
+            </view>
+            <view class="img_bottom"> <!--时间地点-->
+                <view class="loc">浙江省杭州市滨江区</view>
+                <text class="oldtime"><text>05月09日</text><text>16：15</text><text class="del">删除</text></text>
+                <view class="zan">
+                    <view class="zan_left">
+                        <view>7</view>    <!--点赞及评论个数-->
+                    <image src="../../images/list_dianz_pre.png" style="height:20px;width:20px;"></image>
+                    </view>
+                    
+                    <view class="zan_right">
+                        <view>7</view>
+                        <image src="../../images/comments.png" style="width:15px;height:15px;"></image>
+                    </view>
+                </view>
+            </view>
+            
+    </view>
+        <view class="commont_box">
+            <view class="arrow"></view>
+            <view class="box_top">
+               <image class="box_leftimg" src="../../images/list_dianz_pre.png" style="height:20px;width:20px;"></image>
+               <view class="box_rightimg">
+                    <image src="../../images/1.jpg"></image>     <!--点赞部分-->
+                    <image src="../../images/2.jpg"></image>
+                    <image src="../../images/3.jpg"></image>
+                    <image src="../../images/4.jpg"></image>
+                    <image src="../../images/5.jpg"></image>
+                    <image src="../../images/6.jpg"></image>
+                    <image src="../../images/7.jpg"></image>
+                    <image src="../../images/8.jpg"></image>
+                    <image src="../../images/6.jpg"></image>
+                    <image src="../../images/7.jpg"></image>
+                    <image src="../../images/8.jpg"></image>
+               </view> 
+            </view>
+           
+            <view class="box_bottom">
+                
+               <image class="box_leftimg" src="../../images/comments.png" style="width:15px;height:15px;"></image> 
+               <view class="commont">
+                   <image src="../../images/8.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">小明</view>
+                        <text>风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒风萧萧兮易水寒.........</text>
+                    </view>
+               </view>
+                <view class="commont">
+                   <image src="../../images/9.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">丫丫</view>
+                        <text>回复 <text class="commonts_name">小明：</text>壮士一去兮不复还壮士一去兮不复还壮士一去兮不复还......</text>
+                    </view>
+               </view>
+               <view class="commont">
+                   <image src="../../images/15.jpg"></image>
+                    <view class="commonts">
+                        <view class="commonts_name">欧阳</view>
+                        <text>回复 <text class="commonts_name">小明：</text>将来的你一定会感激现在奋斗的你......</text>
+                    </view>
+               </view>
+            </view>
+            
+        </view>
+    </view>
+     <!--end-->
+</view>
+

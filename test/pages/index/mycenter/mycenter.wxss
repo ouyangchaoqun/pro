@@ -1,0 +1,171 @@
+.banner{
+  height: 279px;
+  background: url(../../images/list_banner.png) no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.banner view{
+  border-radius: 50%;
+  background: rgba(204,204,204,0.4);
+  padding:4px;
+  position: absolute;
+  bottom:-32px;
+  left:50%;
+  margin-left:-32px;
+}
+.banner image{
+  display: block;
+  height:64px;
+  width:64px;
+  border-radius: 50%;
+}
+.center_box{
+  padding:45px 15px;
+}
+.chart{
+  height:190px;
+  background: url(../../images/center_bj_can.png) no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+  margin-bottom:22px;
+}
+.tx_img{
+  width:40px;
+  height:40px;
+  display: block;
+  float: left;
+  border-radius: 50%;
+}
+.friend_lists{
+  background: #fff;
+  padding-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+  border-bottom: 1px solid #dcdcdc;
+  margin-top:20px;
+}
+.friend_right{
+  margin-left:50px;
+
+}
+.moods{
+  font-size: 14px;
+  color:#ff6600;
+}
+.shuoshuo{
+  font-size: 14px;
+  color:#333333;
+}
+.friend_img{
+  margin-top:10px;
+}
+.friend_img image{
+  width:100px;
+  height:100px;
+  margin-right: 5px;
+} 
+.img_bottom{
+  margin-top:15px;
+}
+.zan{
+  float: right;
+  font-size: 11px;
+  color:#999999;
+  
+}
+.zan view{
+  float: left;
+  margin-top:3px;
+}
+.zan image{
+  float: left;
+  margin-left:3px;
+}
+.zan_right{
+  margin-left:10px;
+}
+.zan_right image{
+  margin-top:3px;
+
+}
+.loc{
+  font-size: 12px;
+  color:#516591;
+}
+.oldtime{
+  font-size: 12px;
+  color:#787878;
+}
+.oldtime text{margin-right:5px;}
+.oldtime .del{
+  color:#516591;
+}
+.commont_box{
+  background: #efefef;
+  border-radius: 5px;
+  margin-top:15px;
+  padding-bottom: 15px;
+  margin-bottom: 10px;
+  position: relative;
+  padding-right:20px;
+}
+.arrow{
+  width:15px;
+  height:15px;
+  background: #efefef;
+  position: absolute;
+  left:20px;
+  top:-6px;
+  transform:rotate(45deg);
+}
+.box_top{
+  padding-bottom: 5px;
+  position: relative;
+  padding-top: 10px;
+}
+.box_bottom{
+  border-top:1px solid #dcdcdc;
+  position: relative;
+  padding-bottom: 5px;
+}
+.box_leftimg{
+  position: absolute;
+  left:10px;
+  display: block;
+  top:15px;
+}
+.box_rightimg{
+  margin-left:40px;
+}
+.box_rightimg image{
+  width:33px;
+  height:33px;
+  display:inline-block;
+  margin-right:5px;
+}
+.commont{
+  margin-left:40px;
+  position: relative;
+  border-bottom: 1px solid #dcdcdc;
+  padding-top:10px;
+}
+.commont image{
+  width:33px;
+  height:33px;
+  display: block;
+  position: absolute;
+  left:0;
+}
+.commonts{
+  margin-left:43px;
+  font-size: 14px;
+  padding-bottom:9px;
+}
+.commonts .commonts_name{
+  color:#516591;
+  margin-bottom: 10px;
+}
+.commonts text{
+ color:#333333;
+
+}

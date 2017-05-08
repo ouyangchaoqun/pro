@@ -1,0 +1,40 @@
+.banner{
+  height: 279px;
+  background: url(../images/list_banner.png) no-repeat;
+  background-size: cover;
+}
+.rl_header{
+  height:60px;
+  position: relative;
+ 
+}
+.rl_header image{
+  height:24px;
+  width:24px;
+  position: absolute;
+  top:10px;
+  display: block;
+}
+.rl_back{
+  left:30px;
+}
+.rl_go{
+  right:30px;
+  transform: rotate(180deg);
+}
+.rl_date{
+  font-size:16px;
+  color:#666666;
+  width:80px;
+  margin:0 auto;
+  line-height: 40px;
+}
+.rl_week{
+  display: flex;
+}
+.rl_week text{
+  flex-grow: 1;
+  text-align: center;
+  color:#828080;
+  font-size: 12px;
+}

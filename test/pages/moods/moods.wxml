@@ -1,0 +1,15 @@
+<view class="banner"></view>
+<view class="rl_header">
+    <image class="rl_back" src="../images/back.png"></image>
+    <view class="rl_date">2017年5月</view>
+    <image class="rl_go" src="../images/back.png"></image>
+    <view class="rl_week">
+        <text>日</text>
+        <text>一</text>
+        <text>二</text>
+        <text>三</text>
+        <text>四</text>
+        <text>五</text>
+        <text>六</text>
+    </view> 
+</view>		
