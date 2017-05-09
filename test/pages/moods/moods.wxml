@@ -1,4 +1,4 @@
-<view class="banner"></view>
+<image src="../images/list_banner.png"  class="banner"></image>
 <view class="rl_header">
     <image class="rl_back" src="../images/back.png"></image>
     <view class="rl_date">2017年5月</view>

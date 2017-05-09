@@ -1,5 +1,5 @@
 <!--index.wxml-->
-<view class="banner"></view>
+<image src="../images/list_banner.png"  class="banner"></image>
 <view class="box">
   <navigator url="/pages/index/mycenter/mycenter" open-type="navigate"  class="list1">
   <image class="list_img1" src="../images/1.jpg"></image>

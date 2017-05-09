@@ -1,10 +1,11 @@
-<view class="banner">
+<image src="../../images/list_banner.png"  class="banner">
     <view>
         <image src="../../images/1.jpg"></image>  <!--个人头像-->
     </view>
-</view>
+</image>
+    
 <view class="center_box">
-    <view class="chart"></view>       <!--折线图部分TODO-->
+    <image class="chart" src="../../images/center_bj_can.png"></image>       <!--折线图部分TODO-->
     
     <view class="friend_lists">                <!--个人说说模块-->
         <image class="tx_img" src="../../images/mood_02.png"></image>
@@ -15,6 +16,7 @@
             <view class="friend_img">                                            <!--发表图片-->
                 <image src="../../images/mood_02.png"></image>
                 <image src="../../images/mood_02.png"></image>
+                 <image src="../../images/mood_02.png"></image>
             </view>
             <view class="img_bottom"> <!--时间地点-->
                 <view class="loc">浙江省杭州市滨江区</view>
@@ -90,6 +92,7 @@
             <view class="friend_img">                                            <!--发表图片-->
                 <image src="../../images/mood_02.png"></image>
                 <image src="../../images/mood_02.png"></image>
+                 <image src="../../images/mood_02.png"></image>
             </view>
             <view class="img_bottom"> <!--时间地点-->
                 <view class="loc">浙江省杭州市滨江区</view>

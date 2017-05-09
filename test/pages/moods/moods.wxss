@@ -1,7 +1,5 @@
 .banner{
-  height: 279px;
-  background: url(../images/list_banner.png) no-repeat;
-  background-size: cover;
+ width:100%;
 }
 .rl_header{
   height:60px;

@@ -5,7 +5,15 @@
     "pages/moods/moods",
     "pages/friend/friend",
     "pages/me/me",
-    "pages/index/mycenter/mycenter"
+    "pages/index/mycenter/mycenter",
+    "pages/me/list0/list0",
+    "pages/me/list1/list1",
+    "pages/me/list2/list2",
+    "pages/me/list3/list3",
+    "pages/me/list4/list4",
+    "pages/me/list5/list5",
+    "pages/me/list6/list6",
+    "pages/me/list0/phone/phone"
   ],
   "window":{
     "backgroundTextStyle":"light",

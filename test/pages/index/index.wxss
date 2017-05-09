@@ -1,12 +1,10 @@
 /**index.wxss**/
 .banner{
-  height: 279px;
-  background: url(../images/list_banner.png) no-repeat;
-  background-size: cover;
+  width: 100%;
 }
 .box{
   background:#eeeeee;
-  min-height: 300px;
+  height: 100%;
 }
 .list1{
   height:70px;

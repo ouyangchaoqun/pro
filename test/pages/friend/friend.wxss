@@ -44,8 +44,8 @@
   margin-top:10px;
 }
 .friend_img image{
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   margin-right: 5px;
 } 
 .img_bottom{
@@ -84,6 +84,7 @@
   margin-top:10px;
   padding-bottom: 15px;
   margin-bottom: 10px;
+  padding-left:10px;
 }
 .arrow{
   width:15px;
